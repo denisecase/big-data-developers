@@ -24,5 +24,9 @@ Assistant: RG
 16. AT
 17. SY
 
+## Spring 2020
+
+Assistant: RG
+Assistant: SB
 
 
