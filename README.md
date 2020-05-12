@@ -4,7 +4,7 @@
 
 ## Summer 2020
 
-Assistant: RG
+Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
 
 1. MC
 2. DTC
@@ -26,7 +26,7 @@ Assistant: RG
 
 ## Spring 2020
 
-Assistant: RG
+Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
 
 Assistant: SB
 
