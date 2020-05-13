@@ -20,7 +20,7 @@ Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
 12. AP
 13. RP
 14. ER
-15. MRS
+15. [Mahender Reddy Surkanti](https://github.com/Mahender1166/big-data-developer)
 16. AT
 17. SY
 
