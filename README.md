@@ -12,7 +12,7 @@ Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
 4. DE
 5. SCG
 6. SG
-7. NK
+7. [Nikitha Kethireddy](https://github.com/nikithakethireddy1996/big-data-dev)
 8. [Maha Lakshmi Kongari](https://github.com/MAHALAKSHMIKONGARI/big-data-dev)
 9. [Deepak Malempati](https://github.com/Deepakmalempati/about-me)
 10. [Satishkumar Mandapalli](https://github.com/mandapallisatish64/big-data-developer)
