@@ -15,7 +15,7 @@ Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
 7. NK
 8. [Maha Lakshmi Kongari](https://github.com/MAHALAKSHMIKONGARI/big-data-dev)
 9. DM
-10. SM
+10. [Satishkumar Mandapalli](https://github.com/mandapallisatish64/big-data-developer)
 11. JRM
 12. AP
 13. [RethimaReddy Polam](https://github.com/Rethima-Reddy/big-data-dev)
