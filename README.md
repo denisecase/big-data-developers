@@ -25,8 +25,6 @@ Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
 17. SY
 18. MB
 
-19. [jeevan](https://github.com/jeevanreddymure/big-data-developer)
-
 
 ## Spring 2020
 
