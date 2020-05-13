@@ -21,7 +21,7 @@ Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
 13. RP
 14. ER
 15. MRS
-16. AT
+16. [Akhitha Tumula](https://github.com/thumula-akhitha/big-data-dev)
 17. SY
 
 ## Spring 2020
