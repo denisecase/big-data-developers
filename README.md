@@ -6,12 +6,12 @@
 
 Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
 
-1. MC
+1. [Manideep Chamala](https://github.com/manideepchamala/big-data-developers)
 2. [Deepthi Tejaswani Chokka](https://github.com/Deepthi1003/big-data-developer)
-3. VPD
+3. [Venkat Prudhvi Dommaraju](https://github.com/prudhvi15/big-data-developer)
 4. [Dheeraj Edupuganti](https://github.com/Dheeraj0327/big-data-dev)
 5. SCG
-6. SG
+6. [Sumanth Gorantla](https://github.com/gorantla96/big-data-developers)
 7. [Nikitha Kethireddy](https://github.com/nikithakethireddy1996/big-data-dev)
 8. [Maha Lakshmi Kongari](https://github.com/MAHALAKSHMIKONGARI/big-data-dev)
 9. [Deepak Malempati](https://github.com/Deepakmalempati/about-me)
@@ -23,6 +23,7 @@ Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
 15. [Mahender Reddy Surkanti](https://github.com/Mahender1166/big-data-developer)
 16. [Akhitha Tumula](https://github.com/thumula-akhitha/big-data-dev)
 17. [Sushma Yedugani](https://github.com/sushma95/big-data-developer)
+18. MB
 
 
 ## Spring 2020
