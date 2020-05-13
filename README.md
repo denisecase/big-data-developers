@@ -19,7 +19,7 @@ Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
 11. JRM
 12. AP
 13. [RethimaReddy Polam](https://github.com/Rethima-Reddy/big-data-dev)
-14. ER
+14. [Eli Ross](https://github.com/eliross84/big-data-dev)
 15. [Mahender Reddy Surkanti](https://github.com/Mahender1166/big-data-developer)
 16. [Akhitha Tumula](https://github.com/thumula-akhitha/big-data-dev)
 17. [Sushma Yedugani](https://github.com/sushma95/big-data-developer)
