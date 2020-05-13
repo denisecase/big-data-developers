@@ -13,7 +13,7 @@ Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
 5. SCG
 6. SG
 7. NK
-8. MLK
+8. [Maha Lakshmi Kongari](https://github.com/MAHALAKSHMIKONGARI/big-data-dev)
 9. DM
 10. SM
 11. JRM
