@@ -9,7 +9,7 @@ Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
 1. MC
 2. DTC
 3. VPD
-4. DE
+4. [Dheeraj Edupuganti](https://github.com/Dheeraj0327/big-data-dev)
 5. SCG
 6. SG
 7. NK
@@ -23,6 +23,7 @@ Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
 15. [Mahender Reddy Surkanti](https://github.com/Mahender1166/big-data-developer)
 16. [Akhitha Tumula](https://github.com/thumula-akhitha/big-data-dev)
 17. SY
+
 
 ## Spring 2020
 
