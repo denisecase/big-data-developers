@@ -6,7 +6,7 @@
 
 Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
 
-1. MC
+1. [Manideep Chamala](https://github.com/manideepchamala/big-data-developers)
 2. [Deepthi Tejaswani Chokka](https://github.com/Deepthi1003/big-data-developer)
 3. VPD
 4. [Dheeraj Edupuganti](https://github.com/Dheeraj0327/big-data-dev)
