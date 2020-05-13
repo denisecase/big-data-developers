@@ -11,7 +11,7 @@ Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
 3. VPD
 4. [Dheeraj Edupuganti](https://github.com/Dheeraj0327/big-data-dev)
 5. SCG
-6. SG
+6. [Sumanth Gorantla](https://github.com/gorantla96/big-data-developers)
 7. [Nikitha Kethireddy](https://github.com/nikithakethireddy1996/big-data-dev)
 8. [Maha Lakshmi Kongari](https://github.com/MAHALAKSHMIKONGARI/big-data-dev)
 9. [Deepak Malempati](https://github.com/Deepakmalempati/about-me)
