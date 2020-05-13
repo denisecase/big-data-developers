@@ -16,7 +16,7 @@ Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
 8. [Maha Lakshmi Kongari](https://github.com/MAHALAKSHMIKONGARI/big-data-dev)
 9. [Deepak Malempati](https://github.com/Deepakmalempati/about-me)
 10. [Satishkumar Mandapalli](https://github.com/mandapallisatish64/big-data-developer)
-11. JRM
+11. [jeevan mure](https://github.com/jeevanreddymure/big-data-developers)
 12. AP
 13. [RethimaReddy Polam](https://github.com/Rethima-Reddy/big-data-dev)
 14. ER
@@ -24,6 +24,7 @@ Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
 16. [Akhitha Tumula](https://github.com/thumula-akhitha/big-data-dev)
 17. [Sushma Yedugani](https://github.com/sushma95/big-data-developer)
 18. MB
+19.
 
 
 ## Spring 2020
