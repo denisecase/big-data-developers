@@ -23,6 +23,7 @@ Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
 15. [Mahender Reddy Surkanti](https://github.com/Mahender1166/big-data-developer)
 16. [Akhitha Tumula](https://github.com/thumula-akhitha/big-data-dev)
 17. SY
+18. MB
 
 
 ## Spring 2020
