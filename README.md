@@ -7,7 +7,7 @@
 Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
 
 1. MC
-2. DTC
+2. [Deepthi Tejaswani Chokka](https://github.com/Deepthi1003/big-data-developer)
 3. VPD
 4. DE
 5. SCG
