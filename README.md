@@ -18,7 +18,7 @@ Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
 10. SM
 11. JRM
 12. AP
-13. RP
+13. [RethimaReddy Polam](https://github.com/Rethima-Reddy/big-data-dev)
 14. ER
 15. MRS
 16. AT
