@@ -24,7 +24,6 @@ Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
 16. [Akhitha Tumula](https://github.com/thumula-akhitha/big-data-dev)
 17. [Sushma Yedugani](https://github.com/sushma95/big-data-developer)
 18. [Michael Baumli](https://github.com/MichaelJBaumli/big-data-developer)
-19.
 
 
 ## Spring 2020
