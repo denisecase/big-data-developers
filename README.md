@@ -17,7 +17,7 @@ Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
 9. [Deepak Malempati](https://github.com/Deepakmalempati/about-me)
 10. [Satishkumar Mandapalli](https://github.com/mandapallisatish64/big-data-developer)
 11. [jeevan mure](https://github.com/jeevanreddymure/big-data-developer)
-12. AP
+12. [Alekya Pochampally](https://github.com/AlekyaPochampally/big-data-dev)
 13. [RethimaReddy Polam](https://github.com/Rethima-Reddy/big-data-dev)
 14. [Eli Ross](https://github.com/eliross84/big-data-dev)
 15. [Mahender Reddy Surkanti](https://github.com/Mahender1166/big-data-developer)
