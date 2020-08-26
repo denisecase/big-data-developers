@@ -2,6 +2,10 @@
 
 > Maintaining a list of big data developers
 
+## Fall 2020
+
+1. [Omkar Abhiteja Badda](https://github.com/abhiteja29/big-data-developer)
+
 ## Summer 2020
 
 Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
