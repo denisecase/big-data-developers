@@ -2,6 +2,33 @@
 
 > Maintaining a list of big data developers
 
+## Fall 2020
+
+Group A (10)
+
+1. JB
+1. AB
+1. SJ
+1. JL
+1. SM
+1. SP
+1. PP
+1. SR
+1. ST
+1. GY
+
+Group B (8)
+
+1. CA
+1. OAB
+1. PB
+1. BDG
+1. CK
+1. BRM
+1. YRM
+1. MM
+
+
 ## Summer 2020
 
 Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
