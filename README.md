@@ -4,6 +4,8 @@
 
 ## Fall 2020
 
+Assistant: [Sowmya Thogiti](https://github.com/sowmyathogiti/BIO-DATA)
+
 Group A (10)
 
 1. JB
