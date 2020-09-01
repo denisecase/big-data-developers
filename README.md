@@ -12,7 +12,7 @@ Group A (10)
 1. JL
 1. SM
 1. SP
-1. PP
+1. [Prasanna kumar Potnuru](https://github.com/prasu93/about-me)
 1. SR
 1. ST
 1. GY
