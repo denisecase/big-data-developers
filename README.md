@@ -11,7 +11,7 @@ Group A (10)
 1. SJ
 1. JL
 1. SM
-1. SP
+1. [Saroj Paudel](https://github.com/spsaroj/big-data-developer)
 1. PP
 1. SR
 1. ST
