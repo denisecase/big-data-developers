@@ -26,7 +26,7 @@ Group B (8)
 1. CK
 1. BRM
 1. YRM
-1. MM
+1. [Manisha Mengani](https://github.com/Manisha-Mengani/big-data-dev)
 
 
 ## Summer 2020
