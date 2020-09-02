@@ -24,7 +24,7 @@ Group B (8)
 1. PB
 1. BDG
 1. CK
-1. BRM
+1. [Bharat Reddy Male](https://github.com/bharat-reddy-male)
 1. YRM
 1. MM
 
