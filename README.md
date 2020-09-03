@@ -23,7 +23,7 @@ Group B (8)
 1. OAB
 1. PB
 1. BDG
-1. CK
+1. [Chetan Kudaravalli](https://github.com/chetankudaravalli16/big-data-developer)
 1. BRM
 1. YRM
 1. MM
