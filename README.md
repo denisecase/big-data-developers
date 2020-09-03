@@ -6,7 +6,7 @@
 
 Group A (10)
 
-1. JB
+1. [Jack Beaver] (https://github.com/JackWBeaver/big-data-developer)
 1. AB
 1. SJ
 1. JL
