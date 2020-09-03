@@ -9,7 +9,7 @@ Group A (10)
 1. JB
 1. AB
 1. SJ
-1. Jing
+1. [Jing](https://github.com/JingLi521864/big-data-dev)
 1. SM
 1. SP
 1. PP
