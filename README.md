@@ -12,7 +12,7 @@ Group A (10)
 1. [Anil Bomma](https://github.com/anil-bomma/big-data-dev)
 1. [Sravani Jaidi](https://github.com/Sravani537520/big-data-dev)
 1. [Jing](https://github.com/JingLi521864/big-data-dev)
-1. SM
+1. [Susan Maharjan](https://github.com/susanmaharjan/big-data-repository)
 1. SP
 1. [Prasanna kumar Potnuru](https://github.com/prasu93/about-me)
 1. SR
