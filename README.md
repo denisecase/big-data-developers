@@ -21,7 +21,7 @@ Group A (10)
 
 Group B (8)
 
-1. CA
+1. [Chinmayi Ambati](https://github.com/Chinmayi98/big-data-dev)
 1. [Omkar Abhiteja Badda](https://github.com/abhiteja29/big-data-developer)
 1. PB
 1. BDG
