@@ -8,7 +8,7 @@ Group A (10)
 
 1. JB
 1. AB
-1. SJ
+1. [Sravani Jaidi](https://github.com/Sravani537520/big-data-dev)
 1. JL
 1. SM
 1. SP
