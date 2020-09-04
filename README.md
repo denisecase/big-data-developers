@@ -15,7 +15,7 @@ Group A (10)
 1. [Susan Maharjan](https://github.com/susanmaharjan/big-data-repository)
 1. SP
 1. [Prasanna kumar Potnuru](https://github.com/prasu93/about-me)
-1. SR
+1. [Sushmita Rudra](https://github.com/Sushmita-Rudra/big-data-dev)
 1. [Sagar Tiwari](https://github.com/005sagar/big-data)
 1. [Gangadhar Yerramsetti](https://github.com/gangadhary574/big-data-dev)
 
