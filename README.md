@@ -4,29 +4,31 @@
 
 ## Fall 2020
 
+Assistant: [Sowmya Thogiti](https://github.com/sowmyathogiti/BIO-DATA)
+
 Group A (10)
 
-1. JB
+1. [Jack Beaver] (https://github.com/JackWBeaver/big-data-developer)
 1. [Anil Bomma](https://github.com/anil-bomma/big-data-dev)
 1. SJ
-1. JL
+1. [Jing](https://github.com/JingLi521864/big-data-dev)
 1. SM
 1. SP
-1. PP
+1. [Prasanna kumar Potnuru](https://github.com/prasu93/about-me)
 1. SR
-1. ST
+1. [Sagar Tiwari](https://github.com/005sagar/big-data)
 1. GY
 
 Group B (8)
 
 1. CA
-1. OAB
+1. [Omkar Abhiteja Badda](https://github.com/abhiteja29/big-data-developer)
 1. PB
 1. BDG
 1. CK
-1. BRM
+1. [Bharat Reddy Male](https://github.com/bharat-reddy-male)
 1. YRM
-1. MM
+1. [Manisha Mengani](https://github.com/Manisha-Mengani/big-data-dev)
 
 
 ## Summer 2020
