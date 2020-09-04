@@ -10,7 +10,7 @@ Group A (10)
 
 1. [Jack Beaver] (https://github.com/JackWBeaver/big-data-developer)
 1. AB
-1. SJ
+1. [Sravani Jaidi] (https://github.com/Sravani537520/big-data-dev)
 1. [Jing](https://github.com/JingLi521864/big-data-dev)
 1. SM
 1. SP
