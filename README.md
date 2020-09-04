@@ -27,7 +27,7 @@ Group B (8)
 1. BDG
 1. CK
 1. [Bharat Reddy Male](https://github.com/bharat-reddy-male)
-1. YRM
+1. [Yugandhar Rao Mamidi](https://github.com/yugandharmamidi/about-me)
 1. [Manisha Mengani](https://github.com/Manisha-Mengani/big-data-dev)
 
 
