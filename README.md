@@ -25,7 +25,7 @@ Group B (8)
 1. [Omkar Abhiteja Badda](https://github.com/abhiteja29/big-data-developer)
 1. [Priyanka Bodapati](https://github.com/pinky407/big-data-developer)
 1. BDG
-1. CK
+1. [Chetan Kudaravalli](https://github.com/chetankudaravalli16/big-data-developer)
 1. [Bharat Reddy Male](https://github.com/bharat-reddy-male)
 1. [Yugandhar Rao Mamidi](https://github.com/yugandharmamidi/about-me)
 1. [Manisha Mengani](https://github.com/Manisha-Mengani/big-data-dev)
