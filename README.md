@@ -23,7 +23,7 @@ Group B (8)
 
 1. CA
 1. [Omkar Abhiteja Badda](https://github.com/abhiteja29/big-data-developer)
-1. PB
+1. [Priyanka Bodapati](https://github.com/pinky407/big-data-developer)
 1. BDG
 1. CK
 1. [Bharat Reddy Male](https://github.com/bharat-reddy-male)
