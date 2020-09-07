@@ -13,7 +13,7 @@ Group A (10)
 1. [Sravani Jaidi](https://github.com/Sravani537520/big-data-dev)
 1. [Jing](https://github.com/JingLi521864/big-data-dev)
 1. [Susan Maharjan](https://github.com/susanmaharjan/big-data-repository)
-1. SP
+1. [Saroj Paudel](https://github.com/spsaroj/big-data-developer)
 1. [Prasanna kumar Potnuru](https://github.com/prasu93/about-me)
 1. SR
 1. [Sagar Tiwari](https://github.com/005sagar/big-data)
