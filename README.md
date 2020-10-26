@@ -6,6 +6,12 @@
 
 Assistant: [Sowmya Thogiti](https://github.com/sowmyathogiti/BIO-DATA)
 
+Demonstration Teams
+1. [Flink](https://github.com/prasu93/bigdata-flink-project)
+1. [Splunk](https://github.com/bharat-reddy-male/Demonstration-project-spl unk-group2)
+1. [Storm](https://github.com/spsaroj/storm-demo)
+1. [Hive vs Impala](https://github.com/Sushmita-Rudra/demo-group5-Hive-Vs-Impala)
+
 Group A (10)
 
 1. [Jack Beaver] (https://github.com/JackWBeaver/big-data-developer)
