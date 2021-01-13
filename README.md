@@ -2,6 +2,86 @@
 
 > Maintaining a list of big data developers
 
+## Spring 2021 - Section 1
+
+Section 1 - Assistant:
+
+Section 1 - Group A
+
+1. MKA
+1. GB
+1. SRG
+1. RGD
+1. SRG
+1. AJ
+1. TRK
+1. PN
+1. CP
+1. VSKM
+1. SS
+1. ST
+1. SV
+1. SRKV
+1. VY
+
+Section 1 - Group B
+
+1. SB
+1. RGB
+1. ASC
+1. KRD
+1. SKE
+1. DI
+1. HK
+1. VRL
+1. RRM
+1. BRM
+1. DO
+1. RTP
+1. NS
+1. TS
+1. NAV
+
+## Spring 2021 - Section 2
+
+Section 2 - Assistant:
+
+Section 2 - Group A
+
+1. PA
+1. VB
+1. NRB
+1. GMC
+1. ND
+1. LG
+1. RRG
+1. PG
+1. FI
+1. SRN
+1. SRR
+1. RR
+1. HT
+1. ST
+1. TT
+
+Section 2 - Group B
+
+1. MA
+1. RRA
+1. MB
+1. SSC
+1. RC
+1. CF
+1. SRG
+1. SK
+1. KSK
+1. DM
+1. JM
+1. CS
+1. BT
+1. VRV
+1. SCRW
+
 ## Fall 2020
 
 Assistant: [Sowmya Thogiti](https://github.com/sowmyathogiti/BIO-DATA)
