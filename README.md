@@ -4,7 +4,7 @@
 
 ## Spring 2021 - Section 1
 
-Section 1 - Assistant:
+Section 1 - Assistant:[Rajeshwari Rudravaram](https://github.com/Rajeshwari-Rudra/big-data-dev)
 
 Section 1 - Group A
 
@@ -59,7 +59,7 @@ Section 2 - Group A
 1. FI
 1. SRN
 1. SRR
-1. RR
+1. [Rajeshwari Rudravaram](https://github.com/Rajeshwari-Rudra/big-data-dev)
 1. HT
 1. ST
 1. TT
