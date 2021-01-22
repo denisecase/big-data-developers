@@ -11,7 +11,7 @@ Section 1 - Group A
 1. MKA
 1. GB
 1. SRG
-1. RGD
+1. [Prasad Golla Durga](https://github.com/GD-Prasad/big-data-developer)
 1. SRG
 1. AJ
 1. TRK
@@ -44,7 +44,7 @@ Section 1 - Group B
 
 ## Spring 2021 - Section 2
 
-Section 2 - Assistant:
+Section 2 - Assistant: [Prasad Golla Durga](https://github.com/GD-Prasad/big-data-developer)
 
 Section 2 - Group A
 
