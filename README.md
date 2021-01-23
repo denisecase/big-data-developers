@@ -71,7 +71,7 @@ Section 2 - Group B
 1. MB
 1. SSC
 1. RC
-1. CF
+1. [Caroline Finnerty](https://github.com/s529428/big-data-dev-about-me)
 1. SRG
 1. SK
 1. KSK
