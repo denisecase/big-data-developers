@@ -31,7 +31,7 @@ Section 1 - Group B
 1. ASC
 1. KRD
 1. SKE
-1. DI
+1. [Devin Ingersoll](https://github.com/deviningers/about-me)
 1. HK
 1. VRL
 1. RRM
