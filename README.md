@@ -62,7 +62,7 @@ Section 2 - Group A
 1. [Rajeshwari Rudravaram](https://github.com/Rajeshwari-Rudra/big-data-dev)
 1. HT
 1. ST
-1. TT
+1. [Thomas Tran](https://github.com/thomastran7/big-data-dev)
 
 Section 2 - Group B
 
