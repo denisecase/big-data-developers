@@ -53,7 +53,7 @@ Section 2 - Group A
 1. NRB
 1. GMC
 1. ND
-1. LG
+1. [Lindsay Gillespie](https://github.com/LinGill21/big-data-dev)
 1. RRG
 1. PG
 1. FI
