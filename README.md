@@ -58,7 +58,7 @@ Section 2 - Group A
 1. PG
 1. FI
 1. SRN
-1. SRR
+1. [Sumana Reddy Reddybathula](https://github.com/sumana-reddy/big-data-dev)
 1. [Rajeshwari Rudravaram](https://github.com/Rajeshwari-Rudra/big-data-dev)
 1. HT
 1. ST
