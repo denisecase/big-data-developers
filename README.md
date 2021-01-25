@@ -19,7 +19,7 @@ Section 1 - Group A
 1. CP
 1. VSKM
 1. [Suma Soma](https://github.com/suma-gitrep/big-data-developer)
-1. ST
+1. [Sowmya Thogiti](https://github.com/sowmyathogiti/big-data-developer)
 1. SV
 1. SRKV
 1. VY
