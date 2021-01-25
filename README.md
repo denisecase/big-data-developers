@@ -60,7 +60,7 @@ Section 2 - Group A
 1. SRN
 1. SRR
 1. [Rajeshwari Rudravaram](https://github.com/Rajeshwari-Rudra/big-data-dev)
-1. HT
+1. [Harish Thadka](https://github.com/harishThadka/big-data-dev)
 1. ST
 1. [Thomas Tran](https://github.com/thomastran7/big-data-dev)
 
