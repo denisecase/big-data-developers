@@ -52,7 +52,7 @@ Section 2 - Group A
 1. [VB](https://github.com/Vikas2004/big-data-developer)
 1. NRB
 1. GMC
-1. ND
+1. [Navya Devineni](https://github.com/navyadevineni/big-data-dev)
 1. LG
 1. RRG
 1. PG
