@@ -68,13 +68,13 @@ Section 2 - Group B
 
 1. MA
 1. RRA
-1. [Michael Burnes](https://github.com/mtburnes/big-data)
+1. MB
 1. SSC
 1. RC
 1. [Caroline Finnerty](https://github.com/s529428/big-data-dev-about-me)
 1. SRG
 1. SK
-1. KSK
+1. [Krishna Sumanth Koyyalamudi](https://github.com/Krishna-Koyyalamudi/big-data-developer)
 1. DM
 1. JM
 1. CS
