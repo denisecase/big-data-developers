@@ -80,7 +80,7 @@ Section 2 - Group B
 1. CS
 1. BT
 1. VRV
-1. SCRW
+1. [Soumya Chidambar Rao Waddankeri](https://github.com/SoumyaRao28/big-data-dev)
 
 ## Fall 2020
 
