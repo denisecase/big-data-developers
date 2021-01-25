@@ -13,7 +13,7 @@ Section 1 - Group A
 1. SRG
 1. [Prasad Golla Durga](https://github.com/GD-Prasad/big-data-developer)
 1. SRG
-1. AJ
+1. [Alekhya Jaddu](https://github.com/alekhyajaddu/big-data-dev)
 1. TRK
 1. PN
 1. CP
@@ -51,16 +51,16 @@ Section 2 - Group A
 1. PA
 1. [VB](https://github.com/Vikas2004/big-data-developer)
 1. NRB
-1. GMC
+1. [Guan Ming Chee](https://github.com/GuanMingChee/big-data-dev)
 1. [Navya Devineni](https://github.com/navyadevineni/big-data-dev)
-1. LG
+1. [Lindsay Gillespie](https://github.com/LinGill21/big-data-dev)
 1. RRG
 1. PG
 1. FI
 1. SRN
-1. SRR
+1. [Sumana Reddy Reddybathula](https://github.com/sumana-reddy/big-data-dev)
 1. [Rajeshwari Rudravaram](https://github.com/Rajeshwari-Rudra/big-data-dev)
-1. HT
+1. [Harish Thadka](https://github.com/harishThadka/big-data-dev)
 1. ST
 1. [Thomas Tran](https://github.com/thomastran7/big-data-dev)
 
@@ -74,11 +74,11 @@ Section 2 - Group B
 1. [Caroline Finnerty](https://github.com/s529428/big-data-dev-about-me)
 1. SRG
 1. SK
-1. KSK
+1. [Krishna Sumanth Koyyalamudi](https://github.com/Krishna-Koyyalamudi/big-data-developer)
 1. DM
 1. JM
 1. CS
-1. BT
+1. [Bihani Tamang](https://github.com/blonbihani/about-me)
 1. VRV
 1. [Soumya Chidambar Rao Waddankeri](https://github.com/SoumyaRao28/big-data-dev)
 
