@@ -55,7 +55,7 @@ Section 2 - Group A
 1. ND
 1. LG
 1. RRG
-1. PG
+1. [Pooja Gundu](https://github.com/GUNDUPOOJA/big-data-developer)
 1. FI
 1. SRN
 1. SRR
