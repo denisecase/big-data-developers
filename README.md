@@ -12,7 +12,7 @@ Section 1 - Group A
 1. GB
 1. SRG
 1. [Prasad Golla Durga](https://github.com/GD-Prasad/big-data-developer)
-1. SRG
+1. [Swaroop Reddy Gottigundala](https://github.com/SwaroopReddyGottigundala/big-data-dev)
 1. [Alekhya Jaddu](https://github.com/alekhyajaddu/big-data-dev)
 1. TRK
 1. PN
@@ -21,14 +21,14 @@ Section 1 - Group A
 1. [Suma Soma](https://github.com/suma-gitrep/big-data-developer)
 1. [Sowmya Thogiti](https://github.com/sowmyathogiti/big-data-developer)
 1. SV
-1. SRKV
+1. [Shiva Rama Krishna Vodnala](https://github.com/srkvodnala/big-data-dev)
 1. [Vineetha Yenugula](https://github.com/vineetha1996/big-data-developer)
 
 Section 1 - Group B
 
 1. SB
 1. RGB
-1. ASC
+1. [Annie Samarpitha Chandolu](https://github.com/annie0sc/big-data-dev)
 1. KRD
 1. SKE
 1. [Devin Ingersoll](https://github.com/deviningers/about-me)
