@@ -21,7 +21,7 @@ Section 1 - Group A
 1. [Suma Soma](https://github.com/suma-gitrep/big-data-developer)
 1. [Sowmya Thogiti](https://github.com/sowmyathogiti/big-data-developer)
 1. SV
-1. SRKV
+1. [Shiva Rama Krishna Vodnala](https://github.com/srkvodnala/big-data-dev)
 1. VY
 
 Section 1 - Group B
