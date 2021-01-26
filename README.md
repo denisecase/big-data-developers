@@ -12,7 +12,7 @@ Section 1 - Group A
 1. GB
 1. SRG
 1. [Prasad Golla Durga](https://github.com/GD-Prasad/big-data-developer)
-1. SRG
+1. [Swaroop Reddy Gottigundala](https://github.com/SwaroopReddyGottigundala/big-data-dev)
 1. [Alekhya Jaddu](https://github.com/alekhyajaddu/big-data-dev)
 1. TRK
 1. PN
