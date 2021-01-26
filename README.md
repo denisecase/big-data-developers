@@ -22,7 +22,7 @@ Section 1 - Group A
 1. [Sowmya Thogiti](https://github.com/sowmyathogiti/big-data-developer)
 1. SV
 1. [Shiva Rama Krishna Vodnala](https://github.com/srkvodnala/big-data-dev)
-1. VY
+1. [Vineetha Yenugula](https://github.com/vineetha1996/big-data-developer)
 
 Section 1 - Group B
 
