@@ -30,6 +30,7 @@ Section 1 - Group B
 1. SB
 1. RGB
 1. [Annie Samarpitha Chandolu](https://github.com/annie0sc/big-data-dev)
+1. RC
 1. KRD
 1. SKE
 1. [Devin Ingersoll](https://github.com/deviningers/about-me)
