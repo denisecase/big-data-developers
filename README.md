@@ -14,7 +14,7 @@ Section 1 - Group A
 1. [Prasad Golla Durga](https://github.com/GD-Prasad/big-data-developer)
 1. [Swaroop Reddy Gottigundala](https://github.com/SwaroopReddyGottigundala/big-data-dev)
 1. [Alekhya Jaddu](https://github.com/alekhyajaddu/big-data-dev)
-1. TRK
+1. [Tejaswi Reddy Kandula](https://github.com/Teju2404/big-data-developer)
 1. PN
 1. CP
 1. VSKM
