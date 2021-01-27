@@ -14,7 +14,7 @@ Section 1 - Group A
 1. [Prasad Golla Durga](https://github.com/GD-Prasad/big-data-developer)
 1. [Swaroop Reddy Gottigundala](https://github.com/SwaroopReddyGottigundala/big-data-dev)
 1. [Alekhya Jaddu](https://github.com/alekhyajaddu/big-data-dev)
-1. TRK
+1. [Tejaswi Reddy Kandula](https://github.com/Teju2404/big-data-developer)
 1. PN
 1. CP
 1. VSKM
@@ -33,7 +33,7 @@ Section 1 - Group B
 1. SKE
 1. [Devin Ingersoll](https://github.com/deviningers/about-me)
 1. HK
-1. VRL
+1. [Vigneshwar Reddy Lenkala](https://github.com/vigneshwar6666/big-data-dev)
 1. [Rohitha Reddy Meda](https://github.com/Rohitha12/big-data-developers)
 1. BRM
 1. DO
@@ -55,7 +55,7 @@ Section 2 - Group A
 1. [Navya Devineni](https://github.com/navyadevineni/big-data-dev)
 1. [Lindsay Gillespie](https://github.com/LinGill21/big-data-dev)
 1. RRG
-1. PG
+1. [Pooja Gundu](https://github.com/GUNDUPOOJA/big-data-developer)
 1. FI
 1. SRN
 1. [Sumana Reddy Reddybathula](https://github.com/sumana-reddy/big-data-dev)
@@ -79,7 +79,7 @@ Section 2 - Group B
 1. JM
 1. CS
 1. [Bihani Tamang](https://github.com/blonbihani/about-me)
-1. VRV
+1. [Vishal Reddy Vennavaram](https://github.com/Vishalreddy114/big-data-dev)
 1. [Soumya Chidambar Rao Waddankeri](https://github.com/SoumyaRao28/big-data-dev)
 
 ## Fall 2020
