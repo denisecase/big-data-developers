@@ -33,7 +33,7 @@ Section 1 - Group B
 1. SKE
 1. [Devin Ingersoll](https://github.com/deviningers/about-me)
 1. HK
-1. VRL
+1. [Vigneshwar Reddy Lenkala](https://github.com/vigneshwar6666/big-data-dev)
 1. RRM
 1. BRM
 1. DO
