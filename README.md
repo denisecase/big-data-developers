@@ -34,7 +34,7 @@ Section 1 - Group B
 1. [Devin Ingersoll](https://github.com/deviningers/about-me)
 1. HK
 1. VRL
-1. RRM
+1. [Rohitha Reddy Meda](https://github.com/Rohitha12/big-data-developers)
 1. BRM
 1. DO
 1. RTP
