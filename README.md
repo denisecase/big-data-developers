@@ -10,7 +10,7 @@ Section 1 - Group A
 
 1. [Mohan Krishna Alavala](https://github.com/Mohanalavala/big-data-developer)
 1. [Gopichand Bandarupalli](https://github.com/chanduhvg/big-data-developer)
-1. SRG
+1. [Sindhu Rani Goli](https://github.com/sindhurani29/big-data-dev)
 1. [Prasad Golla Durga](https://github.com/GD-Prasad/big-data-developer)
 1. [Swaroop Reddy Gottigundala](https://github.com/SwaroopReddyGottigundala/big-data-dev)
 1. [Alekhya Jaddu](https://github.com/alekhyajaddu/big-data-dev)
