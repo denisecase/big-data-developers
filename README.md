@@ -18,7 +18,7 @@ Section 1 - Group A
 1. [Enid Maharjan](https://github.com/strygwyr555/about-me)
 1. [Pruthvi Naskanti](https://github.com/pruthvi-naskanti/big-data-developer)
 1. [Chandrakanth Polisetty](https://github.com/Chandupolisetty/big-data-developers)
-1. VSKM
+1. [Mohan Pratapa](https://github.com/mohanpratapa/big-data-dev)
 1. [Suma Soma](https://github.com/suma-gitrep/big-data-developer)
 1. [Sowmya Thogiti](https://github.com/sowmyathogiti/big-data-developer)
 1. [Sindhuja Valeti](https://github.com/Sindhujav18/big-data-dev)
