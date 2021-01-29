@@ -21,7 +21,7 @@ Section 1 - Group A
 1. VSKM
 1. [Suma Soma](https://github.com/suma-gitrep/big-data-developer)
 1. [Sowmya Thogiti](https://github.com/sowmyathogiti/big-data-developer)
-1. SV
+1. [Sindhuja Valeti](https://github.com/Sindhujav18/big-data-dev)
 1. [Shiva Rama Krishna Vodnala](https://github.com/srkvodnala/big-data-dev)
 1. [Vineetha Yenugula](https://github.com/vineetha1996/big-data-developer)
 
