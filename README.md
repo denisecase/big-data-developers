@@ -27,7 +27,7 @@ Section 1 - Group A
 
 Section 1 - Group B
 
-1. SB
+1. [Seth Bennett](https://github.com/Sbennett99/big-data-developers)
 1. [Rohan Goud Bhandari](https://github.com/rohan6471/bigdata-dev)
 1. [Annie Samarpitha Chandolu](https://github.com/annie0sc/big-data-dev)
 1. RC
