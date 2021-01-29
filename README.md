@@ -74,7 +74,7 @@ Section 2 - Group B
 1. [Sri Sudheera Chitipolu](https://github.com/sudheera96/big-data-dev)
 1. RC
 1. [Caroline Finnerty](https://github.com/s529428/big-data-dev-about-me)
-1. SRG
+1. [Sai Rohith Gorla](https://github.com/SaiGorla/big-data-dev)
 1. [Spyridon Kaperonis](https://github.com/SpyridonKaperonis/big-data-dev)
 1. [Krishna Sumanth Koyyalamudi](https://github.com/Krishna-Koyyalamudi/big-data-developer)
 1. DM
