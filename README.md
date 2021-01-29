@@ -40,7 +40,7 @@ Section 1 - Group B
 1. BRM
 1. [Dylan Opoka](https://github.com/DylanOpoka/big-data-dev)
 1. [Ravi Teja Pagidoju](https://github.com/RaviTeja444/big-data-dev)
-1. NS
+1. [Neelesh Saladi](https://github.com/neeleshsaladi/data-dev)
 1. [Trun Sarpanjeri](https://github.com/dexterstr/big-data-dev)
 1. NAV
 
