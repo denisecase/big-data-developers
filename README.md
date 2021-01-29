@@ -51,6 +51,7 @@ Section 2 - Assistant: [Prasad Golla Durga](https://github.com/GD-Prasad/big-dat
 Section 2 - Attendance Group A
 
 1. PA
+1. [Puneeth Annam](https://github.com/Puneeth159/big-data-dev)
 1. [Vikas Baswapuram](https://github.com/Vikas2004/big-data-developer)
 1. NRB
 1. [Guan Ming Chee](https://github.com/GuanMingChee/big-data-dev)
