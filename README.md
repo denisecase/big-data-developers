@@ -38,10 +38,10 @@ Section 1 - Group B
 1. [Vigneshwar Reddy Lenkala](https://github.com/vigneshwar6666/big-data-dev)
 1. [Rohitha Reddy Meda](https://github.com/Rohitha12/big-data-developers)
 1. BRM
-1. DO
+1. [Dylan Opoka](https://github.com/DylanOpoka/big-data-dev)
 1. RTP
 1. NS
-1. TS
+1. [Trun Sarpanjeri](https://github.com/dexterstr/big-data-dev)
 1. NAV
 
 ## Spring 2021 - Section 2
@@ -56,7 +56,7 @@ Section 2 - Group A
 1. [Guan Ming Chee](https://github.com/GuanMingChee/big-data-dev)
 1. [Navya Devineni](https://github.com/navyadevineni/big-data-dev)
 1. [Lindsay Gillespie](https://github.com/LinGill21/big-data-dev)
-1. RRG
+1. [Ravichander Reddy Goli](https://github.com/Ravichanderreddy-goli/big-data-dev)
 1. [Pooja Gundu](https://github.com/GUNDUPOOJA/big-data-developer)
 1. FI
 1. SRN
@@ -75,7 +75,7 @@ Section 2 - Group B
 1. RC
 1. [Caroline Finnerty](https://github.com/s529428/big-data-dev-about-me)
 1. [Sai Rohith Gorla](https://github.com/SaiGorla/big-data-dev)
-1. SK
+1. [Spyridon Kaperonis](https://github.com/SpyridonKaperonis/big-data-dev)
 1. [Krishna Sumanth Koyyalamudi](https://github.com/Krishna-Koyyalamudi/big-data-developer)
 1. DM
 1. JM
