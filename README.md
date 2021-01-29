@@ -9,7 +9,7 @@ Section 1 - Assistant:[Rajeshwari Rudravaram](https://github.com/Rajeshwari-Rudr
 Section 1 - Group A
 
 1. MKA
-1. GB
+1. [Gopichand Bandarupalli](https://github.com/chanduhvg/big-data-developer)
 1. SRG
 1. [Prasad Golla Durga](https://github.com/GD-Prasad/big-data-developer)
 1. [Swaroop Reddy Gottigundala](https://github.com/SwaroopReddyGottigundala/big-data-dev)
