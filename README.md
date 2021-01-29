@@ -16,7 +16,7 @@ Section 1 - Group A
 1. [Alekhya Jaddu](https://github.com/alekhyajaddu/big-data-dev)
 1. [Tejaswi Reddy Kandula](https://github.com/Teju2404/big-data-developer)
 1. EM
-1. PN
+1. [Pruthvi Naskanti](https://github.com/pruthvi-naskanti/big-data-developer)
 1. CP
 1. VSKM
 1. [Suma Soma](https://github.com/suma-gitrep/big-data-developer)
