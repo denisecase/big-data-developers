@@ -34,7 +34,7 @@ Section 1 - Group B
 1. [Kamal Reddy Donthireddy](https://github.com/Kamal4195/big-data-dev)
 1. SKE
 1. [Devin Ingersoll](https://github.com/deviningers/about-me)
-1. HK
+1. [Harika Kulkarni](https://github.com/KHARIKA17/big-data-developer)
 1. [Vigneshwar Reddy Lenkala](https://github.com/vigneshwar6666/big-data-dev)
 1. [Rohitha Reddy Meda](https://github.com/Rohitha12/big-data-developers)
 1. BRM
