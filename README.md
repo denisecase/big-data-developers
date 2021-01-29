@@ -41,7 +41,7 @@ Section 1 - Group B
 1. DO
 1. RTP
 1. NS
-1. TS
+1. [Trun Sarpanjeri](https://github.com/dexterstr/big-data-dev)
 1. NAV
 
 ## Spring 2021 - Section 2
