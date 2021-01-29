@@ -4,7 +4,7 @@
 
 ## Spring 2021 - Section 1
 
-Section 1 - Assistant:[Rajeshwari Rudravaram](https://github.com/Rajeshwari-Rudra/big-data-dev)
+Section 1 - Assistant: [Rajeshwari Rudravaram](https://github.com/Rajeshwari-Rudra/big-data-dev)
 
 Section 1 - Group A
 
@@ -48,7 +48,7 @@ Section 1 - Group B
 
 Section 2 - Assistant: [Prasad Golla Durga](https://github.com/GD-Prasad/big-data-developer)
 
-Attendance group 2
+Section 2 - Attendance Group A
 
 1. PA
 1. [Vikas Baswapuram](https://github.com/Vikas2004/big-data-developer)
