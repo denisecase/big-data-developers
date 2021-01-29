@@ -30,7 +30,7 @@ Section 1 - Group B
 1. SB
 1. [Rohan Goud Bhandari](https://github.com/rohan6471/bigdata-dev)
 1. [Annie Samarpitha Chandolu](https://github.com/annie0sc/big-data-dev)
-1. RC
+1. [Rajeev Chapagain](https://github.com/Rajeevbro/big-data-developers)
 1. [Kamal Reddy Donthireddy](https://github.com/Kamal4195/big-data-dev)
 1. SKE
 1. [Devin Ingersoll](https://github.com/deviningers/about-me)
