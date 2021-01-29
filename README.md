@@ -68,7 +68,7 @@ Section 2 - Group A
 
 Section 2 - Group B
 
-1. MA
+1. [Matteo Antunez](https://github.com/matteoantunez/big-data-dev)
 1. RRA
 1. [Michael Burnes](https://github.com/mtburnes/big-data)
 1. [Sri Sudheera Chitipolu](https://github.com/sudheera96/big-data-dev)
