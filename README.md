@@ -48,7 +48,7 @@ Section 1 - Group B
 
 Section 2 - Assistant: [Prasad Golla Durga](https://github.com/GD-Prasad/big-data-developer)
 
-Section 2 - Group A (based on Attendance)
+Attendance group 2
 
 1. PA
 1. [Vikas Baswapuram](https://github.com/Vikas2004/big-data-developer)
