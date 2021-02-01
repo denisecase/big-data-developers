@@ -42,7 +42,7 @@ Section 1 - Group B
 1. [Ravi Teja Pagidoju](https://github.com/RaviTeja444/big-data-dev)
 1. NS
 1. [Trun Sarpanjeri](https://github.com/dexterstr/big-data-dev)
-1. NAV
+1. [Naga Anshitha Velagapudi](https://github.com/anshithavelagapudi/big-data-dev)
 
 ## Spring 2021 - Section 2
 
