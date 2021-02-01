@@ -78,7 +78,7 @@ Section 2 - Group B
 1. [Sai Rohith Gorla](https://github.com/SaiGorla/big-data-dev)
 1. [Spyridon Kaperonis](https://github.com/SpyridonKaperonis/big-data-dev)
 1. [Krishna Sumanth Koyyalamudi](https://github.com/Krishna-Koyyalamudi/big-data-developer)
-1. DM
+1. [Deekshith Maram](https://github.com/Dixith1196/big-data-dev)
 1. [James Mullaney](https://github.com/JamesRMullaney/Big-Data-Dev)
 1. CS
 1. [Bihani Tamang](https://github.com/blonbihani/about-me)
