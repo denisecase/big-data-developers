@@ -37,7 +37,7 @@ Section 1 - Group B
 1. HK
 1. [Vigneshwar Reddy Lenkala](https://github.com/vigneshwar6666/big-data-dev)
 1. [Rohitha Reddy Meda](https://github.com/Rohitha12/big-data-developers)
-1. BRM
+1. [Bhaskar Reddy Minupuri](https://github.com/Bhaskar2909/big-data-developers)
 1. [Dylan Opoka](https://github.com/DylanOpoka/big-data-dev)
 1. [Ravi Teja Pagidoju](https://github.com/RaviTeja444/big-data-dev)
 1. NS
