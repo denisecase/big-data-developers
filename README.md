@@ -6,6 +6,14 @@
 
 Section 1 - Assistant: [Rajeshwari Rudravaram](https://github.com/Rajeshwari-Rudra/big-data-dev)
 
+Demonstration Groups
+
+1. Group 1-1
+1. Group 1-2
+1. Group 1-3
+1. Group 1-4
+1. Group 1-5
+
 Section 1 - Group A
 
 1. [Mohan Krishna Alavala](https://github.com/Mohanalavala/big-data-developer)
@@ -48,7 +56,15 @@ Section 1 - Group B
 
 Section 2 - Assistant: [Prasad Golla Durga](https://github.com/GD-Prasad/big-data-developer)
 
-Section 2 - Attendance Group A
+Demonstration Groups
+
+1. Group 2-1
+1. Group 2-2
+1. Group 2-3
+1. Group 2-4
+1. Group 2-5
+
+Section 2 - Group A
 
 1. PA
 1. [Puneeth Annam](https://github.com/Puneeth159/big-data-dev)
