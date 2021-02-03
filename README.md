@@ -80,7 +80,7 @@ Section 2 - Group A
 1. [Sumana Reddy Reddybathula](https://github.com/sumana-reddy/big-data-dev)
 1. [Rajeshwari Rudravaram](https://github.com/Rajeshwari-Rudra/big-data-dev)
 1. [Harish Thadka](https://github.com/harishThadka/big-data-dev)
-1. ST
+1. [Swaroopa Tirumalareddy](https://github.com/swaroopatirumalareddy/big-data-developer)
 1. [Thomas Tran](https://github.com/thomastran7/big-data-dev)
 
 Section 2 - Group B
