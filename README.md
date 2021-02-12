@@ -11,7 +11,7 @@ Demonstration Groups
 1. [Java Fraud](https://github.com/deviningers/big-data-demonstration-project)
 1. [Flink Fraud](https://github.com/chanduhvg/Flink-Fraud-Scala)
 1. Group 1-3
-1. [Group 1-4](https://github.com/annie0sc/big-data-covid-vaccine)
+1. [Group 1-4: PyFlink:Covid-Vaccine](https://github.com/annie0sc/big-data-covid-vaccine)
 1. [PyFlink-DS](https://github.com/sowmyathogiti/PyFlink-DS)
 1. [PYFlink-Table](https://github.com/rohan6471/pyflink-table)
 
