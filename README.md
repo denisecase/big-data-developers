@@ -69,7 +69,7 @@ Section 2 - Group A
 1. PA
 1. [Puneeth Annam](https://github.com/Puneeth159/big-data-dev)
 1. [Vikas Baswapuram](https://github.com/Vikas2004/big-data-developer)
-1. NRB
+1. [Nooka Raju Boddu](https://github.com/nrajubn/big-data-dev)
 1. [Guan Ming Chee](https://github.com/GuanMingChee/big-data-dev)
 1. [Navya Devineni](https://github.com/navyadevineni/big-data-dev)
 1. [Lindsay Gillespie](https://github.com/LinGill21/big-data-dev)
