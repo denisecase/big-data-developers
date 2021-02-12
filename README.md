@@ -8,7 +8,7 @@ Section 1 - Assistant: [Rajeshwari Rudravaram](https://github.com/Rajeshwari-Rud
 
 Demonstration Groups
 
-1. Group 1-1
+1. [Java Fraud](https://github.com/deviningers/big-data-demonstration-project)
 1. Group 1-2
 1. Group 1-3
 1. [Group 1-4](https://github.com/annie0sc/big-data-covid-vaccine)
