@@ -64,7 +64,7 @@ Demonstration Groups
 1. [Group 2-2](https://github.com/Rajeshwari-Rudra/apache_beam-python)
 1. [Group 2-3](https://github.com/s529428/big-data-group-demonstration-beam-go)
 1. [Group 2-4](https://github.com/harishThadka/Flink-Java)
-1. [Group 2-5](https://github.com/navyadevineni/Bigdata-PyFlink)
+1. [Group 2-5: PyFlink](https://github.com/navyadevineni/Bigdata-PyFlink)
 1. [Group 2-6](https://github.com/JamesRMullaney/Recent-Activity-in-44-517-02-Group-6-PyFlink-PageRank)
 
 Section 2 - Group A
