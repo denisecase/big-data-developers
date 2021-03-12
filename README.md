@@ -98,7 +98,7 @@ Section 2 - Group B
 1. [Krishna Sumanth Koyyalamudi](https://github.com/Krishna-Koyyalamudi/big-data-developer)
 1. [Deekshith Maram](https://github.com/Dixith1196/big-data-dev)
 1. [James Mullaney](https://github.com/JamesRMullaney/Big-Data-Dev)
-1. CS
+1. [Chase Staples](https://github.com/ChaseStaples/big-data-developer)
 1. [Bihani Tamang](https://github.com/blonbihani/about-me)
 1. [Vishal Reddy Vennavaram](https://github.com/Vishalreddy114/big-data-dev)
 1. [Soumya Chidambar Rao Waddankeri](https://github.com/SoumyaRao28/big-data-dev)
