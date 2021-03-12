@@ -77,7 +77,7 @@ Section 2 - Group A
 1. [Lindsay Gillespie](https://github.com/LinGill21/big-data-dev)
 1. [Ravichander Reddy Goli](https://github.com/Ravichanderreddy-goli/big-data-dev)
 1. [Pooja Gundu](https://github.com/GUNDUPOOJA/big-data-developer)
-1. FI
+1. [Francesca Infranca](https://github.com/francescainfranca/big-data-dev)
 1. [Sumanth Reddy Naidu](https://github.com/sumanthreddy1233/big-data-developers)
 1. [Sumana Reddy Reddybathula](https://github.com/sumana-reddy/big-data-dev)
 1. [Rajeshwari Rudravaram](https://github.com/Rajeshwari-Rudra/big-data-dev)
