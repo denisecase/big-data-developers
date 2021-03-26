@@ -10,7 +10,7 @@ Demonstration Groups
 
 1. [Java Fraud](https://github.com/deviningers/big-data-demonstration-project)
 1. [Flink Fraud](https://github.com/chanduhvg/Flink-Fraud-Scala)
-1. [Flink-Kafka-Java](https://github.com/Sindhujav18/flink-kafka-java)
+1. [Group 1-3: Flink-Kafka-Java](https://github.com/Sindhujav18/flink-kafka-java)
 1. [Group 1-4: PyFlink:Covid-Vaccine](https://github.com/annie0sc/big-data-covid-vaccine)
 1. [PyFlink-DS](https://github.com/sowmyathogiti/PyFlink-DS)
 1. [PYFlink-Table](https://github.com/rohan6471/pyflink-table)
@@ -60,8 +60,8 @@ Section 2 - Assistant: [Prasad Golla Durga](https://github.com/GD-Prasad/big-dat
 
 Demonstration Groups
 
-1. [Group 2-1](https://github.com/GuanMingChee/Beam-Java)
-1. [Group 2-2 :- Beam-Python](https://github.com/Rajeshwari-Rudra/apache_beam-python)
+1. [Group 2-1: Beam-Java](https://github.com/GuanMingChee/Beam-Java)
+1. [Group 2-2: Beam-Python](https://github.com/Rajeshwari-Rudra/apache_beam-python)
 1. [Group 2-3](https://github.com/s529428/big-data-group-demonstration-beam-go)
 1. [Group 2-4](https://github.com/harishThadka/Flink-Java)
 1. [Group 2-5: PyFlink](https://github.com/navyadevineni/Bigdata-PyFlink)
