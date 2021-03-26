@@ -50,7 +50,7 @@ Section 1 - Group B
 1. [Bhaskar Reddy Minupuri](https://github.com/Bhaskar2909/big-data-developers)
 1. [Dylan Opoka](https://github.com/DylanOpoka/big-data-dev)
 1. [Ravi Teja Pagidoju](https://github.com/RaviTeja444/big-data-dev)
-1. NS
+1. [Neelesh Saladi](https://github.com/neeleshsaladi/data-dev)
 1. [Trun Sarpanjeri](https://github.com/dexterstr/big-data-dev)
 1. [Naga Anshitha Velagapudi](https://github.com/anshithavelagapudi/big-data-dev)
 
@@ -64,7 +64,7 @@ Demonstration Groups
 1. [Group 2-2](https://github.com/Rajeshwari-Rudra/apache_beam-python)
 1. [Group 2-3](https://github.com/s529428/big-data-group-demonstration-beam-go)
 1. [Group 2-4](https://github.com/harishThadka/Flink-Java)
-1. [Group 2-5](https://github.com/navyadevineni/Bigdata-PyFlink)
+1. [Group 2-5: PyFlink](https://github.com/navyadevineni/Bigdata-PyFlink)
 1. [Group 2-6](https://github.com/JamesRMullaney/Recent-Activity-in-44-517-02-Group-6-PyFlink-PageRank)
 
 Section 2 - Group A
@@ -77,7 +77,7 @@ Section 2 - Group A
 1. [Lindsay Gillespie](https://github.com/LinGill21/big-data-dev)
 1. [Ravichander Reddy Goli](https://github.com/Ravichanderreddy-goli/big-data-dev)
 1. [Pooja Gundu](https://github.com/GUNDUPOOJA/big-data-developer)
-1. FI
+1. [Francesca Infranca](https://github.com/francescainfranca/big-data-dev)
 1. [Sumanth Reddy Naidu](https://github.com/sumanthreddy1233/big-data-developers)
 1. [Sumana Reddy Reddybathula](https://github.com/sumana-reddy/big-data-dev)
 1. [Rajeshwari Rudravaram](https://github.com/Rajeshwari-Rudra/big-data-dev)
@@ -98,7 +98,7 @@ Section 2 - Group B
 1. [Krishna Sumanth Koyyalamudi](https://github.com/Krishna-Koyyalamudi/big-data-developer)
 1. [Deekshith Maram](https://github.com/Dixith1196/big-data-dev)
 1. [James Mullaney](https://github.com/JamesRMullaney/Big-Data-Dev)
-1. CS
+1. [Chase Staples](https://github.com/ChaseStaples/big-data-developer)
 1. [Bihani Tamang](https://github.com/blonbihani/about-me)
 1. [Vishal Reddy Vennavaram](https://github.com/Vishalreddy114/big-data-dev)
 1. [Soumya Chidambar Rao Waddankeri](https://github.com/SoumyaRao28/big-data-dev)
