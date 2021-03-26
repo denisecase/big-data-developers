@@ -60,7 +60,7 @@ Section 2 - Assistant: [Prasad Golla Durga](https://github.com/GD-Prasad/big-dat
 
 Demonstration Groups
 
-1. [Group 2-1](https://github.com/GuanMingChee/Beam-Java)
+1. [Beam-Java](https://github.com/GuanMingChee/Beam-Java)
 1. [Group 2-2](https://github.com/Rajeshwari-Rudra/apache_beam-python)
 1. [Group 2-3](https://github.com/s529428/big-data-group-demonstration-beam-go)
 1. [Group 2-4](https://github.com/harishThadka/Flink-Java)
