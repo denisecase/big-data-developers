@@ -17,7 +17,6 @@ Demonstration Groups
 5. [PyFlink-DS](https://github.com/sowmyathogiti/PyFlink-DS)
 6. [PYFlink-Table](https://github.com/rohan6471/pyflink-table)
 
-
 Section 1 - Group A
 
 1. [Mohan Krishna Alavala](https://github.com/Mohanalavala/big-data-developer)
@@ -139,7 +138,6 @@ Group B (8)
 7. [Yugandhar Rao Mamidi](https://github.com/yugandharmamidi/about-me)
 8. [Manisha Mengani](https://github.com/Manisha-Mengani/big-data-dev)
 
-
 ## Summer 2020
 
 Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
@@ -163,11 +161,7 @@ Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
 17. [Sushma Yedugani](https://github.com/sushma95/big-data-developer)
 18. [Michael Baumli](https://github.com/MichaelJBaumli/big-data-developer)
 
-
 ## Spring 2020
 
-Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
-
-Assistant: [Santhosh kumar Bollena](https://github.com/santhoshkumarbollena)
-
-
+- Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
+- Assistant: [Santhosh kumar Bollena](https://github.com/santhoshkumarbollena)
