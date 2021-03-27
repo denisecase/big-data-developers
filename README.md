@@ -1,5 +1,7 @@
 # big-data-developers
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bf145a0ecba4442eae9d7e6f4d5dd1ea)](https://app.codacy.com/gh/denisecase/big-data-developers?utm_source=github.com&utm_medium=referral&utm_content=denisecase/big-data-developers&utm_campaign=Badge_Grade_Settings)
+
 > Maintaining a list of amazing big data developers
 
 ## Spring 2021 - Section 1
