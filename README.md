@@ -4,6 +4,12 @@
 
 > Maintaining a list of amazing big data developers
 
+## Big Data Resources
+
+- [Apache Beam](https://beam.apache.org/)
+- [US GeoPlatform.gov](https://www.geoplatform.gov/) - US geospatial data assets
+- [US Open Data Resources](https://github.com/GSA/resources.data.gov)
+
 ## Spring 2021 - Section 1
 
 Section 1 - Assistant: [Rajeshwari Rudravaram](https://github.com/Rajeshwari-Rudra/big-data-dev)
