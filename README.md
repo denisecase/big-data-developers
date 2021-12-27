@@ -9,6 +9,7 @@
 - [Apache Beam](https://beam.apache.org/)
 - [US GeoPlatform.gov](https://www.geoplatform.gov/) - US geospatial data assets
 - [US Open Data Resources](https://github.com/GSA/resources.data.gov)
+- [Kaggle Datasets](https://www.kaggle.com/datasets)
 
 ## Spring 2021 - Section 1
 
