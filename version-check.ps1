@@ -32,6 +32,9 @@ jupyter --version >> versions.txt
 "-----------------" >> versions.txt
 choco list --local >> versions.txt
 "-----------------" >> versions.txt
+whoami >> versions.txt
+"-----------------" >> versions.txt
+pwd >> versions.txt
 "-----------------" >> versions.txt
 "DONE" >> versions.txt
 "-----------------" >> versions.txt
