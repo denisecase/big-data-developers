@@ -36,5 +36,16 @@ whoami >> versions.txt
 "-----------------" >> versions.txt
 pwd >> versions.txt
 "-----------------" >> versions.txt
+
+"NOW" >> versions.txt
+$now = get-date |  Out-String
+$stringAsStream = [System.IO.MemoryStream]::new()
+$writer = [System.IO.StreamWriter]::new($stringAsStream)
+$writer.write($now)
+$writer.Flush()
+$stringAsStream.Position = 0
+$now >> versions.txt
+Get-FileHash -InputStream $stringAsStream | Select-Object Hash >> versions.txt
+"-----------------" >> versions.txt
 "DONE" >> versions.txt
 "-----------------" >> versions.txt
