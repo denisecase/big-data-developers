@@ -87,7 +87,49 @@ Section 2 - Apache Beam Projects
 
 Section 2 - Developers
 
-1. 
+1. GA
+2. RA
+3. AKRA
+4. TA
+5. AB
+6. VB
+7. AB
+8. RRC
+9. DGD
+10. VD
+11. SKE
+12. SKRG
+13. PRG
+14. NKG
+15. SSJ
+16. VSJ
+17. AK
+18. MBK
+19. HVK
+20. HSRM
+21. AM
+22. KM
+23. SKM
+24. SN
+25. VGSSN
+26. NTN
+27. MN
+28. HP
+29. VKP
+30. SP
+31. RR
+32. GSS
+33. SS
+34. DS
+35. AS
+36. ASS
+37. VT
+38. SVRT
+39. CBT
+40. HVRT
+41. RV
+42. VV
+43. SY
 
 ## Spring 2021 - Section 1
 
