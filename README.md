@@ -11,6 +11,84 @@
 - [US Open Data Resources](https://github.com/GSA/resources.data.gov)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
 
+-----
+
+## Spring 2022 - Section 1
+
+Section 1 - Assistant: Rehana Naguru
+
+Section 1 - Apache Beam Projects 
+
+1. Beam Spark Java
+2. Beam Spark Python
+3. Beam Spark Go
+4. Beam Flink Java
+5. Beam Flink Python
+6. Beam Flink Go
+7. Beam Dataproc Java
+8. Beam Dataproc Python
+
+Section 1 - Developers
+
+1. RA
+2. AA
+3. JSAA
+4. MA
+5. VB
+6. RRB
+7. MB
+8. MD
+9. AD
+10. PD
+11. SNATG
+12. AK
+13. NK
+14. KSDK
+15. SRK
+16. YL
+17. NRNM
+18. BSM
+19. SSM
+20. MM
+21. JSM
+22. PM
+23. SKM
+24. MRM
+25. SN
+26. TRN
+27. SN
+28. SDN
+29. PP
+30. NP
+31. OR
+32. AR
+33. JKS
+34. BS
+35. NT
+36. PT
+37. PT
+38. CSU
+39. RV
+
+## Spring 2022 - Section 2
+
+Section 2 - Assistant: Rehana Naguru
+
+Section 2 - Apache Beam Projects 
+
+1. Beam Spark Java
+2. Beam Spark Python
+3. Beam Spark Go
+4. Beam Flink Java
+5. Beam Flink Python
+6. Beam Flink Go
+7. Beam Dataproc Java
+8. Beam Dataproc Python
+
+Section 2 - Developers
+
+1. 
+
 ## Spring 2021 - Section 1
 
 Section 1 - Assistant: [Rajeshwari Rudravaram](https://github.com/Rajeshwari-Rudra/big-data-dev)
