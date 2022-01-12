@@ -10,6 +10,7 @@
 - [US GeoPlatform.gov](https://www.geoplatform.gov/) - US geospatial data assets
 - [US Open Data Resources](https://github.com/GSA/resources.data.gov)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
+- [Big Data and Genomics](https://www.genome.gov/about-genomics/fact-sheets/Genomic-Data-Science)
 - [Basic Setup for Big Data](https://github.com/denisecase/basic-setup-for-bigdata)
 
 -----
