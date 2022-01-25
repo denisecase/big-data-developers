@@ -295,3 +295,7 @@ Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
 
 - Assistant: [Rohan Bhandari](https://github.com/rohan6471/big-data-developer)
 - Assistant: [Santhosh kumar Bollena](https://github.com/santhoshkumarbollena)
+
+## References 
+
+- purchases.txt from Udacity "Introduction to Hadoop and MapReduce" at https://classroom.udacity.com/courses/ud617/
