@@ -12,6 +12,8 @@
 - [Kaggle Datasets](https://www.kaggle.com/datasets)
 - [Big Data and Genomics](https://www.genome.gov/about-genomics/fact-sheets/Genomic-Data-Science)
 - [Basic Setup for Big Data](https://github.com/denisecase/basic-setup-for-bigdata) <-- get  your machine ready
+- [First mapper and reducer](https://github.com/denisecase/h03)
+- [Piping process with map and reduce](https://github.com/denisecase/python-map-reduce)
 
 -----
 
