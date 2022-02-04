@@ -14,6 +14,7 @@
 - [Basic Setup for Big Data](https://github.com/denisecase/basic-setup-for-bigdata) <-- get  your machine ready
 - [First mapper and reducer](https://github.com/denisecase/h03)
 - [Piping process with map and reduce](https://github.com/denisecase/python-map-reduce)
+- [Getting started with Apache Spark](https://github.com/denisecase/starting-spark)
 
 -----
 
