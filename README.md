@@ -84,7 +84,7 @@ Section 2 - Apache Beam Projects
 
 1. Beam Spark Java
 2. Beam Spark Python
-3. Beam Spark Go
+3. [Beam Spark Go](https://github.com/jarugulavenkat7/44-517-Sec02-03-Spark-Go)
 4. Beam Flink Java
 5. Beam Flink Python
 6. Beam Flink Go
