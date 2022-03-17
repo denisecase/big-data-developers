@@ -28,11 +28,11 @@ Section 1 - Apache Beam Projects
 1. Beam Spark Java
 2. Beam Spark Python
 3. Beam Spark Go
-4. Beam Flink Java
-5. Beam Flink Python
-6. Beam Flink Go
-7. Beam Dataproc Java
-8. Beam Dataproc Python
+4. Beam Flink Java - [Repo link](https://github.com/Nikhilreddy012/44-517-Sec01-04-Flink-Java)
+6. Beam Flink Python
+7. Beam Flink Go
+8. Beam Dataproc Java
+9. Beam Dataproc Python
 
 Section 1 - Developers
 
