@@ -100,7 +100,7 @@ Section 2 - Developers
 5. AB
 6. VB
 7. AB
-8. RRC
+8. [Rohit Reddy Chandupalta](https://github.com/RohitChandupatla)
 9. DGD
 10. VD
 11. SKE
