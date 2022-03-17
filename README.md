@@ -89,7 +89,8 @@ Section 2 - Apache Beam Projects
 5. Beam Flink Python
 6. Beam Flink Go
 7. Beam Dataproc Java
-8. Beam Dataproc Python
+8. Beam Dataproc Python: [Group Repository](https://github.com/AbdulSuboor-Syed/Beam-Dataproc-Python-Section02) Vineetha Batchu, Dhanusha Goud Dommati, Amulya Mallepalli, Keerthi Muli, Vinay Kumar Paspula, Abdul Suboor Syed
+
 
 Section 2 - Developers
 
