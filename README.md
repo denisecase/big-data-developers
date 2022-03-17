@@ -30,7 +30,7 @@ Section 1 - Apache Beam Projects
 3. Beam Spark Go
 4. Beam Flink Java
 5. Beam Flink Python
-6. Beam Flink Go (https://github.com/aneela123/Big-Data-GroupProject-Go)
+6. Beam Flink Go (https://github.com/Rasagna0409/big-data-developers)
 7. Beam Dataproc Java
 8. Beam Dataproc Python
 
