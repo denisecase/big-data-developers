@@ -109,7 +109,7 @@ Section 2 - Developers
 14. NKG
 15. SSJ
 16. VSJ
-17. AK
+17. [Akanksha Sudhagoni](https://github.com/AkankshaSudhagoni)
 18. MBK
 19. HVK
 20. HSRM
