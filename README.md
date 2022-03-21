@@ -26,8 +26,8 @@ Section 1 - Assistant: Rehana Naguru
 Section 1 - Apache Beam Projects 
 
 1. Beam Spark Java
-2. Beam Spark Python
-3. Beam Spark Go
+2. [Beam Spark Python](https://github.com/NaveenTanuku/PySpark-Sec01-02)
+3. [Beam Spark Go](https://github.com/sowmya-yalamarthi/BigData-Spark-Go)
 4. Beam Flink Java
 5. Beam Flink Python
 6. Beam Flink Go
@@ -88,9 +88,8 @@ Section 2 - Apache Beam Projects
 4. Beam Flink Java
 5. Beam Flink Python
 6. Beam Flink Go
-7. Beam Dataproc Java
-8. Beam Dataproc Python: [Group Repository](https://github.com/AbdulSuboor-Syed/Beam-Dataproc-Python-Section02) Vineetha Batchu, Dhanusha Goud Dommati, Amulya Mallepalli, Keerthi Muli, Vinay Kumar Paspula, Abdul Suboor Syed
-
+7. [Beam Dataproc Java](https://github.com/vyshnavi1996/Beam-Dataproc-Java)
+8. [Beam Dataproc Python](https://github.com/AbdulSuboor-Syed/Beam-Dataproc-Python-Section02) Vineetha Batchu, Dhanusha Goud Dommati, Amulya Mallepalli, Keerthi Muli, Vinay Kumar Paspula, Abdul Suboor Syed
 
 Section 2 - Developers
 
