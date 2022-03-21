@@ -25,7 +25,7 @@ Section 1 - Assistant: Rehana Naguru
 
 Section 1 - Apache Beam Projects 
 
-1. [Beam Spark Java] (https://github.com/snasam/44-517-Sec01-01-Spark-Java-)
+1. [Beam Spark Java](https://github.com/snasam/44-517-Sec01-01-Spark-Java-)
 2. [Beam Spark Python](https://github.com/NaveenTanuku/PySpark-Sec01-02)
 3. [Beam Spark Go](https://github.com/sowmya-yalamarthi/BigData-Spark-Go)
 4. Beam Flink Java
