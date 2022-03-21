@@ -25,12 +25,12 @@ Section 1 - Assistant: Rehana Naguru
 
 Section 1 - Apache Beam Projects 
 
-1. Beam Spark Java
-2. Beam Spark Python
-3. Beam Spark Go
+1. [Beam Spark Java] (https://github.com/snasam/44-517-Sec01-01-Spark-Java-)
+2. [Beam Spark Python](https://github.com/NaveenTanuku/PySpark-Sec01-02)
+3. [Beam Spark Go](https://github.com/sowmya-yalamarthi/BigData-Spark-Go)
 4. Beam Flink Java
-5. -[Beam Flink Python] (https://github.com/PariveshitaThota/PyFlink-G05)
-6. Beam Flink Go
+5. [Beam Flink Python](https://github.com/PariveshitaThota/PyFlink-G05)
+6. [Beam Flink Go](https://github.com/Rasagna0409/big-data-developers)
 7. Beam Dataproc Java
 8. Beam Dataproc Python
 
@@ -83,12 +83,12 @@ Section 2 - Assistant: Rehana Naguru
 Section 2 - Apache Beam Projects 
 
 1. Beam Spark Java
-2. Beam Spark Python
+2. [Beam Spark Python](https://github.com/pramod096/spark-python-s02g02)
 3. Beam Spark Go
 4. Beam Flink Java
-5. Beam Flink Python
+5. [Beam Flink Python](https://github.com/RohitChandupatla/beam-flink-python)
 6. Beam Flink Go
-7. Beam Dataproc Java
+7. [Beam Dataproc Java](https://github.com/vyshnavi1996/Beam-Dataproc-Java)
 8. Beam Dataproc Python
 
 Section 2 - Developers
@@ -100,7 +100,7 @@ Section 2 - Developers
 5. AB
 6. VB
 7. AB
-8. RRC
+8. [Rohit Reddy Chandupalta](https://github.com/RohitChandupatla)
 9. DGD
 10. VD
 11. SKE
