@@ -83,7 +83,7 @@ Section 2 - Assistant: Rehana Naguru
 Section 2 - Apache Beam Projects 
 
 1. Beam Spark Java
-2. Beam Spark Python
+2. [Beam Spark Python](https://github.com/pramod096/spark-python-s02g02)
 3. Beam Spark Go
 4. Beam Flink Java
 5. [Beam Flink Python](https://github.com/RohitChandupatla/beam-flink-python)
