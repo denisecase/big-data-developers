@@ -86,7 +86,7 @@ Section 2 - Apache Beam Projects
 2. Beam Spark Python
 3. Beam Spark Go
 4. Beam Flink Java
-5. [Beam Flink Python](https://github.com/PariveshitaThota/PyFlink-G05)
+5. [Beam Flink Python](https://github.com/jyshnkr/PyFlink-G05)
 6. Beam Flink Go
 7. Beam Dataproc Java
 8. Beam Dataproc Python
