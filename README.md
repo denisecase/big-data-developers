@@ -21,7 +21,7 @@
 
 ## Spring 2022 - Section 1
 
-Section 1 - Assistant: Rehana Naguru
+Section 1 - Assistant: [Rehana Naguru](https://github.com/rehana7)
 
 Section 1 - Apache Beam Projects 
 
