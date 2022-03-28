@@ -41,7 +41,6 @@ Section 2 - Apache Beam Projects
 3. [Beam Go](https://github.com/jarugulavenkat7/44-517-Sec02-03-Spark-Go)
 4. Beam Java
 5. [Beam Python](https://github.com/RohitChandupatla/beam-flink-python)
-6. Beam Go
 7. [Beam Java](https://github.com/vyshnavi1996/Beam-Dataproc-Java)
 8. [Beam Python](https://github.com/AbdulSuboor-Syed/Beam-Python-Section02) 
 
