@@ -19,9 +19,9 @@
 
 -----
 
-## Spring 2022 - Section 1
+## Spring 2022 
 
-Section 1 - Assistant: [Rehana Naguru](https://github.com/rehana7)
+Assistant: [Rehana Naguru](https://github.com/rehana7)
 
 Section 1 - Apache Beam Projects 
 
@@ -34,52 +34,6 @@ Section 1 - Apache Beam Projects
 7. Beam Java
 8. Beam Python
 
-Section 1 - Developers
-
-1. RA
-2. AA
-3. JSAA
-4. MA
-5. VB
-6. RRB
-7. MB
-8. MD
-9. AD
-10. PD
-11. SNATG
-12. AK
-13. NK
-14. KSDK
-15. SRK
-16. YL
-17. NRNM
-18. BSM
-19. SSM
-20. MM
-21. JSM
-22. PM
-23. SKM
-24. MRM
-25. SN
-26. TRN
-27. SN
-28. SDN
-29. PP
-30. NP
-31. OR
-32. AR
-33. JKS
-34. BS
-35. NT
-36. PT
-37. PT
-38. CSU
-39. RV
-
-## Spring 2022 - Section 2
-
-Section 2 - Assistant: Rehana Naguru
-
 Section 2 - Apache Beam Projects 
 
 1. Beam Java
@@ -91,52 +45,6 @@ Section 2 - Apache Beam Projects
 7. [Beam Java](https://github.com/vyshnavi1996/Beam-Dataproc-Java)
 8. [Beam Python](https://github.com/AbdulSuboor-Syed/Beam-Python-Section02) 
 
-
-Section 2 - Developers
-
-1. GA
-2. RA
-3. AKRA
-4. TA
-5. AB
-6. VB
-7. AB
-8. [Rohit Reddy Chandupalta](https://github.com/RohitChandupatla)
-9. DGD
-10. VD
-11. SKE
-12. SKRG
-13. PRG
-14. NKG
-15. SSJ
-16. VSJ
-17. [Akanksha Sudhagoni](https://github.com/AkankshaSudhagoni)
-18. MBK
-19. HVK
-20. HSRM
-21. AM
-22. KM
-23. SKM
-24. SN
-25. VGSSN
-26. NTN
-27. MN
-28. HP
-29. VKP
-30. SP
-31. RR
-32. GSS
-33. SS
-34. DS
-35. AS
-36. ASS
-37. VT
-38. SVRT
-39. CBT
-40. HVRT
-41. RV
-42. VV
-43. SY
 
 ## Spring 2021 - Section 1
 
