@@ -31,7 +31,7 @@ Section 1 - Apache Beam Projects
 4. [Beam Java](https://github.com/Nikhilreddy012/44-517-Sec01-04-Flink-Java)
 5. [Beam Python](https://github.com/PariveshitaThota/PyFlink-G05)
 6. [Beam Java](https://github.com/aneela123/Big-Data-Group6Project)
-7. Beam Java
+7. [Beam Java](https://github.com/sagajayakumar/big-data-project)
 8. Beam Python
 
 Section 2 - Apache Beam Projects 
