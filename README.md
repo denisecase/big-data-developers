@@ -36,7 +36,7 @@ Section 1 - Apache Beam Projects
 
 Section 2 - Apache Beam Projects 
 
-1. Beam Java
+1. [Beam Java](https://github.com/reddy-raghavendra/Sec02-01-spark-java)
 2. [Beam Python](https://github.com/pramod096/spark-python-s02g02)
 3. [Beam Go](https://github.com/jarugulavenkat7/44-517-Sec02-03-Spark-Go)
 4. Beam Java
