@@ -23,28 +23,27 @@
 
 Assistant: [Rehana Naguru](https://github.com/rehana7)
 
-Section 1 - Apache Beam Projects 
+Section 1 - Apache Beam Projects - Java for each developer
 
 1. [Beam Java](https://github.com/snasam/44-517-Sec01-01-Spark-Java-)
-2. [Beam Python](https://github.com/NaveenTanuku/PySpark-Sec01-02)
+2. [Beam Java, Python optional](https://github.com/NaveenTanuku/PySpark-Sec01-02)
 3. [Beam Java](https://github.com/sowmya-yalamarthi/BigData-Beam-Java)
 4. [Beam Java](https://github.com/Nikhilreddy012/44-517-Sec01-04-Flink-Java)
-5. [Beam Python](https://github.com/PariveshitaThota/PyFlink-G05)
+5. [Beam Java, Python optional](https://github.com/PariveshitaThota/PyFlink-G05)
 6. [Beam Java](https://github.com/aneela123/Big-Data-Group6Project)
 7. [Beam Java](https://github.com/sagajayakumar/big-data-project)
-8. [Beam Python](https://github.com/washingdone/big-data-project)
+8. [Beam Java, Python optional](https://github.com/washingdone/big-data-project)
 
 
-Section 2 - Apache Beam Projects 
+Section 2 - Apache Beam Projects - Java for each developer 
 
 1. [Beam Java](https://github.com/reddy-raghavendra/Sec02-01-spark-java)
-2. [Beam Python](https://github.com/pramod096/spark-python-s02g02)
+2. [Beam Java, Python optional](https://github.com/pramod096/spark-python-s02g02)
 3. [Beam Java](https://github.com/jarugulavenkat7/44-517-Sec02-03-Java)
 4. [Beam Java](https://github.com/amulyareddybaddam/BigdataFlinkJavaGroup4)
-5. [Beam Python](https://github.com/RohitChandupatla/beam-flink-python)
+5. [Beam Java, Python optional](https://github.com/RohitChandupatla/beam-flink-python)
 7. [Beam Java](https://github.com/vyshnavi1996/Beam-Dataproc-Java)
 8. [Beam Java](https://github.com/AbdulSuboor-Syed/Beam-Java-Section02) 
-
 
 ## Spring 2021 - Section 1
 
