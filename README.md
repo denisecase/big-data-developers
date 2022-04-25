@@ -41,7 +41,7 @@ Section 2 - Apache Beam Projects - Java for each developer
 2. [Beam Java, Python optional](https://github.com/pramod096/spark-python-s02g02)
 3. [Beam Java](https://github.com/jarugulavenkat7/44-517-Sec02-03-Java)
 4. [Beam Java](https://github.com/amulyareddybaddam/BigdataFlinkJavaGroup4)
-5. [Beam Java, Python optional](https://github.com/RohitChandupatla/beam-flink-python)
+5. [Beam Java, Python optional](https://github.com/RohitChandupatla/beam-java)
 7. [Beam Java](https://github.com/vyshnavi1996/Beam-Dataproc-Java)
 8. [Beam Java](https://github.com/AbdulSuboor-Syed/Beam-Java-Section02) 
 
